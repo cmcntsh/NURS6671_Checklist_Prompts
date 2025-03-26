@@ -11,6 +11,7 @@ You must use the concepts you learn in this course throughout the rest of your p
 | Data Display:  | Bar Charts | Bar Charts | Histograms and/or Box Plots | Histograms and/or Box Plots |
 
 <br>
+
 ## Useful prompts
 
 I tried these on https://copilot.microsoft.com/ in Microsoft Edge. It would be worthwhile to try in other tools.
@@ -36,6 +37,7 @@ What descriptive statistics and plots should I use for <variable name>?
 ```
 
 <br><br><br>
+
 # Which statistical test should I use?
 
 ## One Variable
@@ -58,6 +60,7 @@ What descriptive statistics and plots should I use for <variable name>?
 | <br><br><br> | **Ratio** |  |  |  |  |
 
 <br>
+
 ## Useful prompts
 
 * Identify the variables in the dataset and level of measurement for each one first.
