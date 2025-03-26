@@ -10,6 +10,31 @@ You must use the concepts you learn in this course throughout the rest of your p
 | Data Summary (outliers present or skewed data):  | NA | NA | Medians and Ranges | Medians and Ranges |
 | Data Display:  | Bar Charts | Bar Charts | Histograms and/or Box Plots | Histograms and/or Box Plots |
 
+<br>
+## Useful prompts
+
+I tried these on https://copilot.microsoft.com/ in Microsoft Edge. It would be worthwhile to try in other tools.
+
+* Upload a csv file that contains the variables you're interested in analyzing. (I uploaded a data file that had the word "chi-square" in the name. Copilot ran a chi-square test and gave me the results before I even asked anything. I was a bit surprised.)
+
+Identify the variables in the dataset and the level of measurement for each one.
+
+```
+What are the variables in the dataset and what is the statistical level of measurement for each one?
+```
+
+Identify what statistical analyses can be conducted with the variables of interest.
+
+```
+What descriptive statistics and plots should I use for each variable?
+```
+
+or
+
+```
+What descriptive statistics and plots should I use for <variable name>?
+```
+
 <br><br><br>
 # Which statistical test should I use?
 
@@ -31,6 +56,29 @@ You must use the concepts you learn in this course throughout the rest of your p
 | <br><br><br> | **Ordinal** |  |  |  |  |
 | <br><br><br> | **Interval** |  |  |  |  |
 | <br><br><br> | **Ratio** |  |  |  |  |
+
+<br>
+## Useful prompts
+
+* Identify the variables in the dataset and level of measurement for each one first.
+
+What is the correct statistical test?
+
+```
+What statistical analyses are possible using these variables?
+```
+
+or
+
+```
+What statistical analyses can I conduct using <variable name> as the independent variable and <variable name> as the dependent variable?
+```
+
+or
+
+```
+What is the best statistical test to conduct using <variable name> as the independent variable and <variable name> as the dependent variable?
+```
 
 <br><br><br>
 # Statistical Analysis/Critique Steps
