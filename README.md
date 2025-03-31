@@ -49,7 +49,7 @@ What descriptive statistics and plots should I use for <variable name>?
 | Interval |  |
 | Ratio |  |
 
-## One Dependent Variable (IV), One Independent Variable (DV)
+## One Dependent Variable (DV), One Independent Variable (IV)
 
 | <img width="100" height="1"> |  <img width="100" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
