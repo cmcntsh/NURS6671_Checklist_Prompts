@@ -172,3 +172,10 @@ Rate a study on the Johns Hopkins quality rating using letters.
 ```
 What is the quality rating for this study based on the Johns Hopkins quality rating system (A High quality: Consistent, generalizable results; sufficient sample size for the study design; adequate control; definitive conclusions; consistent recommendations based on comprehensive literature review that includes thorough reference to scientific evidence. B Good quality: Reasonably consistent results; sufficient sample size for the study design; some control, fairly definitive conclusions; reasonably consistent recommendations based on fairly comprehensive literature review that includes some reference to scientific evidence. C Low quality or major flaws: Little evidence with inconsistent results; insufficient sample size for the study design; conclusions cannot be drawn.)?
 ```
+
+Evaluate how a research article relates to a PICOT question.
+
+```
+How does this article relate to this PICOT question?
+Here is the PICOT question: "<Paste PICOT question here inside quotes.>"
+```
