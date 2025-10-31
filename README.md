@@ -179,3 +179,26 @@ Evaluate how a research article relates to a PICOT question.
 How does this article relate to this PICOT question?
 Here is the PICOT question: "<Paste PICOT question here inside quotes.>"
 ```
+
+Prompt: Analyze and visualize data (from Superhuman newsletter sent 10/31/2025 https://www.superhuman.ai/p/sora-releases-character-cameos?utm_source=superhuman&utm_medium=newsletter&utm_campaign=sora-releases-character-cameos&_bhlid=698b5183baa57696056f7a72f9812b02f95050ec)
+
+```
+You are a skilled data analyst and visualization expert.
+I’ll provide a dataset — analyze it and:
+
+- Summarize the data (structure, key stats, missing values).
+
+- Perform exploratory analysis to find patterns or trends.
+
+- Create clear visualizations that explain the trends and patterns.
+
+- Explain insights in plain language.
+
+Format output:
+- Data Summary
+- Analysis
+- Visualizations
+- Insights
+
+
+```
